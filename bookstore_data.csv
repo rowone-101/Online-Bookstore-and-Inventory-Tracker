@@ -1,0 +1,222 @@
+order_id,order_date,customer_id,customer_name,city,membership_type,book_id,title,author,genre,quantity,unit_price,line_total,order_total,status,payment_mode,stock_quantity,reorder_level
+O0003,2024-01-03,C011,Suresh Bose,Bengaluru,Premium,BK019,Fields of Silence,Sudha Murty,Thriller,2,284.81,569.62,3811.92,Shipped,Net Banking,60,15
+O0003,2024-01-03,C011,Suresh Bose,Bengaluru,Premium,BK003,Beyond the Stars,Sudha Murty,Biography,3,621.67,1865.01,3811.92,Shipped,Net Banking,35,10
+O0003,2024-01-03,C011,Suresh Bose,Bengaluru,Premium,BK015,Chasing Sunsets,Paulo Coelho,Thriller,2,267.13,534.26,3811.92,Shipped,Net Banking,55,15
+O0003,2024-01-03,C011,Suresh Bose,Bengaluru,Premium,BK046,The Ivory Tower,Yuval Noah Harari,Fantasy,1,843.03,843.03,3811.92,Shipped,Net Banking,51,20
+O0062,2024-01-07,C023,Kunal Iyer,Ahmedabad,Premium,BK005,Echoes of Yesterday,Amanda Cole,Poetry,1,713.04,713.04,4724.57,Delivered,Credit Card,118,25
+O0062,2024-01-07,C023,Kunal Iyer,Ahmedabad,Premium,BK010,Winds of Change,Amanda Cole,Fantasy,1,995.3,995.3,4724.57,Delivered,Credit Card,51,20
+O0062,2024-01-07,C023,Kunal Iyer,Ahmedabad,Premium,BK048,The Lantern Keeper,Paulo Coelho,Fiction,3,776.4,2329.2,4724.57,Delivered,Credit Card,44,20
+O0062,2024-01-07,C023,Kunal Iyer,Ahmedabad,Premium,BK041,Shattered Mirrors,Sudha Murty,Fiction,3,229.01,687.03,4724.57,Delivered,Credit Card,113,15
+O0068,2024-01-08,C008,Payal Verma,Delhi,Regular,BK009,The Hidden Truth,Agatha Christie,History,3,433.45,1300.35,3221.49,Shipped,Net Banking,118,15
+O0068,2024-01-08,C008,Payal Verma,Delhi,Regular,BK025,Fragments of Light,Malcolm Gladwell,Biography,3,640.38,1921.14,3221.49,Shipped,Net Banking,93,10
+O0023,2024-01-16,C030,Myra Nair,Guwahati,Premium,BK056,The Wildflower Field,Robin Sharma,History,1,406.18,406.18,3276.8,Cancelled,Credit Card,83,10
+O0023,2024-01-16,C030,Myra Nair,Guwahati,Premium,BK042,The Copper Sky,Sudha Murty,Science Fiction,2,283.82,567.64,3276.8,Cancelled,Credit Card,39,20
+O0023,2024-01-16,C030,Myra Nair,Guwahati,Premium,BK063,The Attic Room,James Clear,Biography,2,156.19,312.38,3276.8,Cancelled,Credit Card,45,20
+O0023,2024-01-16,C030,Myra Nair,Guwahati,Premium,BK010,Winds of Change,Amanda Cole,Fantasy,2,995.3,1990.6,3276.8,Cancelled,Credit Card,51,20
+O0008,2024-01-27,C017,Kavya Joshi,Hyderabad,Regular,BK049,Homecoming,James Clear,Fantasy,3,196.61,589.83,589.83,Delivered,Credit Card,55,10
+O0027,2024-01-30,C020,Arjun Gupta,Chennai,Regular,BK019,Fields of Silence,Sudha Murty,Thriller,2,284.81,569.62,569.62,Delivered,Debit Card,60,15
+O0022,2024-02-07,C032,Harsh Bhatt,Guwahati,Regular,BK056,The Wildflower Field,Robin Sharma,History,2,406.18,812.36,2467.73,Delivered,Cash on Delivery,83,10
+O0022,2024-02-07,C032,Harsh Bhatt,Guwahati,Regular,BK007,The Forgotten Path,J.D. Rowling,Horror,1,1059.81,1059.81,2467.73,Delivered,Cash on Delivery,48,20
+O0022,2024-02-07,C032,Harsh Bhatt,Guwahati,Regular,BK055,Slow Burn,Stephen King,Science Fiction,3,198.52,595.56,2467.73,Delivered,Cash on Delivery,60,10
+O0052,2024-02-14,C015,Shreya Singh,Agartala,Premium,BK030,The Paper Boat,Sudha Murty,Children,1,312.54,312.54,1769.48,Cancelled,Cash on Delivery,37,15
+O0052,2024-02-14,C015,Shreya Singh,Agartala,Premium,BK042,The Copper Sky,Sudha Murty,Science Fiction,1,283.82,283.82,1769.48,Cancelled,Cash on Delivery,39,20
+O0052,2024-02-14,C015,Shreya Singh,Agartala,Premium,BK062,Silver Linings,Haruki Murakami,Self-Help,2,586.56,1173.12,1769.48,Cancelled,Cash on Delivery,26,25
+O0018,2024-03-12,C009,Vivaan Das,Agartala,Premium,BK060,Moonlit Roads,Ruskin Bond,History,2,438.33,876.66,2907.28,Delivered,Net Banking,9,20
+O0018,2024-03-12,C009,Vivaan Das,Agartala,Premium,BK051,Deep Blue,Jane Austen,Self-Help,1,850.24,850.24,2907.28,Delivered,Net Banking,41,25
+O0018,2024-03-12,C009,Vivaan Das,Agartala,Premium,BK033,Wandering Stars,Amanda Cole,Business,2,590.19,1180.38,2907.28,Delivered,Net Banking,74,20
+O0078,2024-03-16,C033,Sneha Menon,Mumbai,Premium,BK003,Beyond the Stars,Sudha Murty,Biography,2,621.67,1243.34,3557.9,Delivered,Net Banking,35,10
+O0078,2024-03-16,C033,Sneha Menon,Mumbai,Premium,BK004,The Last Chapter,Stephen King,Thriller,1,257.32,257.32,3557.9,Delivered,Net Banking,48,10
+O0078,2024-03-16,C033,Sneha Menon,Mumbai,Premium,BK024,The Golden Hour,James Clear,Business,3,405.15,1215.45,3557.9,Delivered,Net Banking,60,25
+O0078,2024-03-16,C033,Sneha Menon,Mumbai,Premium,BK054,The Cartographer's Dream,Ruskin Bond,History,1,841.79,841.79,3557.9,Delivered,Net Banking,36,20
+O0064,2024-03-27,C039,Nisha Chatterjee,Delhi,Premium,BK049,Homecoming,James Clear,Fantasy,1,196.61,196.61,2653.52,Delivered,Credit Card,55,10
+O0064,2024-03-27,C039,Nisha Chatterjee,Delhi,Premium,BK040,The Amber Room,R.K. Sharma,Romance,3,818.97,2456.91,2653.52,Delivered,Credit Card,33,15
+O0072,2024-03-31,C024,Aarav Chauhan,Guwahati,Regular,BK028,The Velvet Night,J.D. Rowling,Comics,2,324.63,649.26,1588.92,Shipped,UPI,62,25
+O0072,2024-03-31,C024,Aarav Chauhan,Guwahati,Regular,BK038,The Last Letter,George R. Martin,Poetry,3,313.22,939.66,1588.92,Shipped,UPI,36,15
+O0036,2024-04-02,C009,Vivaan Das,Agartala,Premium,BK012,The Glass Garden,Sudha Murty,Self-Help,3,934.36,2803.08,8762.47,Delivered,Debit Card,54,25
+O0036,2024-04-02,C009,Vivaan Das,Agartala,Premium,BK013,Rivers of Gold,J.D. Rowling,Thriller,2,1054.16,2108.32,8762.47,Delivered,Debit Card,19,15
+O0036,2024-04-02,C009,Vivaan Das,Agartala,Premium,BK009,The Hidden Truth,Agatha Christie,History,3,433.45,1300.35,8762.47,Delivered,Debit Card,118,15
+O0036,2024-04-02,C009,Vivaan Das,Agartala,Premium,BK051,Deep Blue,Jane Austen,Self-Help,3,850.24,2550.72,8762.47,Delivered,Debit Card,41,25
+O0010,2024-04-03,C032,Harsh Bhatt,Guwahati,Regular,BK022,The Long Road Home,Yuval Noah Harari,Business,1,157.55,157.55,6741.78,Shipped,Debit Card,90,10
+O0010,2024-04-03,C032,Harsh Bhatt,Guwahati,Regular,BK021,Beneath the Surface,Malcolm Gladwell,History,2,624.06,1248.12,6741.78,Shipped,Debit Card,31,15
+O0010,2024-04-03,C032,Harsh Bhatt,Guwahati,Regular,BK043,Riverbend,George R. Martin,Romance,2,1078.34,2156.68,6741.78,Shipped,Debit Card,52,15
+O0010,2024-04-03,C032,Harsh Bhatt,Guwahati,Regular,BK007,The Forgotten Path,J.D. Rowling,Horror,3,1059.81,3179.43,6741.78,Shipped,Debit Card,48,20
+O0035,2024-04-09,C009,Vivaan Das,Agartala,Premium,BK051,Deep Blue,Jane Austen,Self-Help,3,850.24,2550.72,6661.41,Cancelled,UPI,41,25
+O0035,2024-04-09,C009,Vivaan Das,Agartala,Premium,BK029,Echo Chamber,R.K. Sharma,Biography,2,1122.84,2245.68,6661.41,Cancelled,UPI,100,25
+O0035,2024-04-09,C009,Vivaan Das,Agartala,Premium,BK003,Beyond the Stars,Sudha Murty,Biography,3,621.67,1865.01,6661.41,Cancelled,UPI,35,10
+O0066,2024-04-23,C028,Yash Chauhan,Hyderabad,Regular,BK034,The Silent Partner,Yuval Noah Harari,Mystery,1,287.42,287.42,5894.86,Delivered,Cash on Delivery,82,20
+O0066,2024-04-23,C028,Yash Chauhan,Hyderabad,Regular,BK043,Riverbend,George R. Martin,Romance,2,1078.34,2156.68,5894.86,Delivered,Cash on Delivery,52,15
+O0066,2024-04-23,C028,Yash Chauhan,Hyderabad,Regular,BK020,The Painted Sky,Stephen King,Comics,3,943.03,2829.09,5894.86,Delivered,Cash on Delivery,88,15
+O0066,2024-04-23,C028,Yash Chauhan,Hyderabad,Regular,BK003,Beyond the Stars,Sudha Murty,Biography,1,621.67,621.67,5894.86,Delivered,Cash on Delivery,35,10
+O0074,2024-04-26,C033,Sneha Menon,Mumbai,Premium,BK058,The Bookbinder,Ruskin Bond,Self-Help,2,483.16,966.32,1413.26,Processing,Cash on Delivery,96,25
+O0074,2024-04-26,C033,Sneha Menon,Mumbai,Premium,BK050,The Salt Path,Stephen King,Romance,2,223.47,446.94,1413.26,Processing,Cash on Delivery,85,20
+O0016,2024-04-30,C030,Myra Nair,Guwahati,Premium,BK060,Moonlit Roads,Ruskin Bond,History,3,438.33,1314.99,4751.05,Cancelled,Credit Card,9,20
+O0016,2024-04-30,C030,Myra Nair,Guwahati,Premium,BK046,The Ivory Tower,Yuval Noah Harari,Fantasy,2,843.03,1686.06,4751.05,Cancelled,Credit Card,51,20
+O0016,2024-04-30,C030,Myra Nair,Guwahati,Premium,BK019,Fields of Silence,Sudha Murty,Thriller,2,284.81,569.62,4751.05,Cancelled,Credit Card,60,15
+O0016,2024-04-30,C030,Myra Nair,Guwahati,Premium,BK033,Wandering Stars,Amanda Cole,Business,2,590.19,1180.38,4751.05,Cancelled,Credit Card,74,20
+O0046,2024-05-05,C013,Vivaan Chatterjee,Hyderabad,Premium,BK042,The Copper Sky,Sudha Murty,Science Fiction,3,283.82,851.46,1080.47,Shipped,UPI,39,20
+O0046,2024-05-05,C013,Vivaan Chatterjee,Hyderabad,Premium,BK041,Shattered Mirrors,Sudha Murty,Fiction,1,229.01,229.01,1080.47,Shipped,UPI,113,15
+O0054,2024-05-09,C005,Saanvi Malhotra,Agartala,Regular,BK025,Fragments of Light,Malcolm Gladwell,Biography,2,640.38,1280.76,2970.38,Delivered,Cash on Delivery,93,10
+O0054,2024-05-09,C005,Saanvi Malhotra,Agartala,Regular,BK039,Voices in the Dark,Paulo Coelho,Self-Help,2,413.68,827.36,2970.38,Delivered,Cash on Delivery,116,10
+O0054,2024-05-09,C005,Saanvi Malhotra,Agartala,Regular,BK034,The Silent Partner,Yuval Noah Harari,Mystery,3,287.42,862.26,2970.38,Delivered,Cash on Delivery,82,20
+O0049,2024-05-28,C018,Anika Kapoor,Pune,Premium,BK052,The Orchard Wall,Dan Brown,Children,3,861.18,2583.54,4404.81,Delivered,Cash on Delivery,115,15
+O0049,2024-05-28,C018,Anika Kapoor,Pune,Premium,BK012,The Glass Garden,Sudha Murty,Self-Help,1,934.36,934.36,4404.81,Delivered,Cash on Delivery,54,25
+O0049,2024-05-28,C018,Anika Kapoor,Pune,Premium,BK008,City of Dreams,Stephen King,Children,1,886.91,886.91,4404.81,Delivered,Cash on Delivery,87,10
+O0077,2024-06-03,C021,Nisha Bhatt,Hyderabad,Regular,BK029,Echo Chamber,R.K. Sharma,Biography,2,1122.84,2245.68,5576.22,Shipped,UPI,100,25
+O0077,2024-06-03,C021,Nisha Bhatt,Hyderabad,Regular,BK041,Shattered Mirrors,Sudha Murty,Fiction,3,229.01,687.03,5576.22,Shipped,UPI,113,15
+O0077,2024-06-03,C021,Nisha Bhatt,Hyderabad,Regular,BK020,The Painted Sky,Stephen King,Comics,1,943.03,943.03,5576.22,Shipped,UPI,88,15
+O0077,2024-06-03,C021,Nisha Bhatt,Hyderabad,Regular,BK051,Deep Blue,Jane Austen,Self-Help,2,850.24,1700.48,5576.22,Shipped,UPI,41,25
+O0037,2024-06-17,C018,Anika Kapoor,Pune,Premium,BK048,The Lantern Keeper,Paulo Coelho,Fiction,1,776.4,776.4,1746.31,Delivered,Net Banking,44,20
+O0037,2024-06-17,C018,Anika Kapoor,Pune,Premium,BK056,The Wildflower Field,Robin Sharma,History,2,406.18,812.36,1746.31,Delivered,Net Banking,83,10
+O0037,2024-06-17,C018,Anika Kapoor,Pune,Premium,BK022,The Long Road Home,Yuval Noah Harari,Business,1,157.55,157.55,1746.31,Delivered,Net Banking,90,10
+O0013,2024-07-11,C004,Manoj Agarwal,Agartala,Regular,BK041,Shattered Mirrors,Sudha Murty,Fiction,1,229.01,229.01,3321.84,Processing,Debit Card,113,15
+O0013,2024-07-11,C004,Manoj Agarwal,Agartala,Regular,BK029,Echo Chamber,R.K. Sharma,Biography,2,1122.84,2245.68,3321.84,Processing,Debit Card,100,25
+O0013,2024-07-11,C004,Manoj Agarwal,Agartala,Regular,BK049,Homecoming,James Clear,Fantasy,3,196.61,589.83,3321.84,Processing,Debit Card,55,10
+O0013,2024-07-11,C004,Manoj Agarwal,Agartala,Regular,BK004,The Last Chapter,Stephen King,Thriller,1,257.32,257.32,3321.84,Processing,Debit Card,48,10
+O0067,2024-07-28,C001,Payal Bhatt,Chennai,Regular,BK049,Homecoming,James Clear,Fantasy,2,196.61,393.22,1825.92,Delivered,Credit Card,55,10
+O0067,2024-07-28,C001,Payal Bhatt,Chennai,Regular,BK017,Letters from Home,Malcolm Gladwell,Thriller,2,716.35,1432.7,1825.92,Delivered,Credit Card,99,10
+O0048,2024-08-09,C038,Kabir Agarwal,Agartala,Premium,BK051,Deep Blue,Jane Austen,Self-Help,3,850.24,2550.72,3033.88,Delivered,Debit Card,41,25
+O0048,2024-08-09,C038,Kabir Agarwal,Agartala,Premium,BK058,The Bookbinder,Ruskin Bond,Self-Help,1,483.16,483.16,3033.88,Delivered,Debit Card,96,25
+O0060,2024-08-17,C031,Neha Nair,Chennai,Premium,BK008,City of Dreams,Stephen King,Children,3,886.91,2660.73,3660.18,Delivered,Debit Card,87,10
+O0060,2024-08-17,C031,Neha Nair,Chennai,Premium,BK049,Homecoming,James Clear,Fantasy,1,196.61,196.61,3660.18,Delivered,Debit Card,55,10
+O0060,2024-08-17,C031,Neha Nair,Chennai,Premium,BK018,The Broken Compass,Malcolm Gladwell,Comics,2,401.42,802.84,3660.18,Delivered,Debit Card,30,10
+O0038,2024-08-19,C010,Saanvi Joshi,Guwahati,Premium,BK006,Shadows in the Rain,Michelle Obama,Comics,1,756.22,756.22,3689.97,Cancelled,Net Banking,90,10
+O0038,2024-08-19,C010,Saanvi Joshi,Guwahati,Premium,BK051,Deep Blue,Jane Austen,Self-Help,2,850.24,1700.48,3689.97,Cancelled,Net Banking,41,25
+O0038,2024-08-19,C010,Saanvi Joshi,Guwahati,Premium,BK026,The Iron Gate,Haruki Murakami,Thriller,3,411.09,1233.27,3689.97,Cancelled,Net Banking,24,25
+O0026,2024-08-20,C019,Payal Joshi,Hyderabad,Regular,BK063,The Attic Room,James Clear,Biography,3,156.19,468.57,2150.61,Cancelled,UPI,45,20
+O0026,2024-08-20,C019,Payal Joshi,Hyderabad,Regular,BK007,The Forgotten Path,J.D. Rowling,Horror,1,1059.81,1059.81,2150.61,Cancelled,UPI,48,20
+O0026,2024-08-20,C019,Payal Joshi,Hyderabad,Regular,BK049,Homecoming,James Clear,Fantasy,2,196.61,393.22,2150.61,Cancelled,UPI,55,10
+O0026,2024-08-20,C019,Payal Joshi,Hyderabad,Regular,BK041,Shattered Mirrors,Sudha Murty,Fiction,1,229.01,229.01,2150.61,Cancelled,UPI,113,15
+O0075,2024-08-29,C010,Saanvi Joshi,Guwahati,Premium,BK013,Rivers of Gold,J.D. Rowling,Thriller,1,1054.16,1054.16,4270.92,Delivered,Credit Card,19,15
+O0075,2024-08-29,C010,Saanvi Joshi,Guwahati,Premium,BK012,The Glass Garden,Sudha Murty,Self-Help,3,934.36,2803.08,4270.92,Delivered,Credit Card,54,25
+O0075,2024-08-29,C010,Saanvi Joshi,Guwahati,Premium,BK039,Voices in the Dark,Paulo Coelho,Self-Help,1,413.68,413.68,4270.92,Delivered,Credit Card,116,10
+O0032,2024-08-30,C007,Meera Kapoor,Guwahati,Regular,BK037,Beyond the Horizon,Jane Austen,Business,2,158.21,316.42,3755.79,Shipped,Cash on Delivery,104,20
+O0032,2024-08-30,C007,Meera Kapoor,Guwahati,Regular,BK019,Fields of Silence,Sudha Murty,Thriller,1,284.81,284.81,3755.79,Shipped,Cash on Delivery,60,15
+O0032,2024-08-30,C007,Meera Kapoor,Guwahati,Regular,BK045,Storm Season,George R. Martin,Biography,3,1051.52,3154.56,3755.79,Shipped,Cash on Delivery,28,15
+O0015,2024-09-02,C039,Nisha Chatterjee,Delhi,Premium,BK036,The Glass House,Malcolm Gladwell,Comics,1,1073.23,1073.23,2095.66,Cancelled,Credit Card,47,20
+O0015,2024-09-02,C039,Nisha Chatterjee,Delhi,Premium,BK001,The Silent Horizon,George R. Martin,Fiction,1,407.14,407.14,2095.66,Cancelled,Credit Card,17,10
+O0015,2024-09-02,C039,Nisha Chatterjee,Delhi,Premium,BK027,Whistling Pines,Yuval Noah Harari,Horror,1,615.29,615.29,2095.66,Cancelled,Credit Card,110,10
+O0029,2024-09-03,C025,Vikram Mehta,Delhi,Regular,BK015,Chasing Sunsets,Paulo Coelho,Thriller,3,267.13,801.39,1426.47,Shipped,Cash on Delivery,55,15
+O0029,2024-09-03,C025,Vikram Mehta,Delhi,Regular,BK030,The Paper Boat,Sudha Murty,Children,2,312.54,625.08,1426.47,Shipped,Cash on Delivery,37,15
+O0017,2024-09-06,C031,Neha Nair,Chennai,Premium,BK025,Fragments of Light,Malcolm Gladwell,Biography,3,640.38,1921.14,5083.62,Shipped,Cash on Delivery,93,10
+O0017,2024-09-06,C031,Neha Nair,Chennai,Premium,BK013,Rivers of Gold,J.D. Rowling,Thriller,3,1054.16,3162.48,5083.62,Shipped,Cash on Delivery,19,15
+O0012,2024-09-15,C021,Nisha Bhatt,Hyderabad,Regular,BK056,The Wildflower Field,Robin Sharma,History,3,406.18,1218.54,4544.77,Delivered,UPI,83,10
+O0012,2024-09-15,C021,Nisha Bhatt,Hyderabad,Regular,BK033,Wandering Stars,Amanda Cole,Business,3,590.19,1770.57,4544.77,Delivered,UPI,74,20
+O0012,2024-09-15,C021,Nisha Bhatt,Hyderabad,Regular,BK053,Northern Lights,R.K. Sharma,Mystery,2,370.69,741.38,4544.77,Delivered,UPI,100,20
+O0012,2024-09-15,C021,Nisha Bhatt,Hyderabad,Regular,BK001,The Silent Horizon,George R. Martin,Fiction,2,407.14,814.28,4544.77,Delivered,UPI,17,10
+O0030,2024-09-18,C030,Myra Nair,Guwahati,Premium,BK058,The Bookbinder,Ruskin Bond,Self-Help,1,483.16,483.16,5011.51,Cancelled,UPI,96,25
+O0030,2024-09-18,C030,Myra Nair,Guwahati,Premium,BK019,Fields of Silence,Sudha Murty,Thriller,1,284.81,284.81,5011.51,Cancelled,UPI,60,15
+O0030,2024-09-18,C030,Myra Nair,Guwahati,Premium,BK044,The Watchmaker's Secret,Dan Brown,Fiction,2,923.39,1846.78,5011.51,Cancelled,UPI,42,25
+O0030,2024-09-18,C030,Myra Nair,Guwahati,Premium,BK035,Ashes and Embers,R.K. Sharma,History,2,1198.38,2396.76,5011.51,Cancelled,UPI,12,10
+O0057,2024-09-18,C021,Nisha Bhatt,Hyderabad,Regular,BK005,Echoes of Yesterday,Amanda Cole,Poetry,1,713.04,713.04,6156.33,Delivered,Credit Card,118,25
+O0057,2024-09-18,C021,Nisha Bhatt,Hyderabad,Regular,BK006,Shadows in the Rain,Michelle Obama,Comics,3,756.22,2268.66,6156.33,Delivered,Credit Card,90,10
+O0057,2024-09-18,C021,Nisha Bhatt,Hyderabad,Regular,BK054,The Cartographer's Dream,Ruskin Bond,History,3,841.79,2525.37,6156.33,Delivered,Credit Card,36,20
+O0057,2024-09-18,C021,Nisha Bhatt,Hyderabad,Regular,BK028,The Velvet Night,J.D. Rowling,Comics,2,324.63,649.26,6156.33,Delivered,Credit Card,62,25
+O0002,2024-09-27,C014,Kabir Agarwal,Delhi,Regular,BK016,The Quiet War,Paulo Coelho,Self-Help,3,683.07,2049.21,2983.57,Cancelled,UPI,13,20
+O0002,2024-09-27,C014,Kabir Agarwal,Delhi,Regular,BK012,The Glass Garden,Sudha Murty,Self-Help,1,934.36,934.36,2983.57,Cancelled,UPI,54,25
+O0004,2024-09-27,C015,Shreya Singh,Agartala,Premium,BK028,The Velvet Night,J.D. Rowling,Comics,3,324.63,973.89,1860.8,Cancelled,Cash on Delivery,62,25
+O0004,2024-09-27,C015,Shreya Singh,Agartala,Premium,BK008,City of Dreams,Stephen King,Children,1,886.91,886.91,1860.8,Cancelled,Cash on Delivery,87,10
+O0005,2024-09-29,C010,Saanvi Joshi,Guwahati,Premium,BK011,A Thousand Mornings,Haruki Murakami,Fantasy,2,565.41,1130.82,1130.82,Delivered,UPI,117,25
+O0065,2024-10-05,C006,Sanya Nair,Bengaluru,Regular,BK039,Voices in the Dark,Paulo Coelho,Self-Help,1,413.68,413.68,5200.33,Shipped,Net Banking,116,10
+O0065,2024-10-05,C006,Sanya Nair,Bengaluru,Regular,BK029,Echo Chamber,R.K. Sharma,Biography,3,1122.84,3368.52,5200.33,Shipped,Net Banking,100,25
+O0065,2024-10-05,C006,Sanya Nair,Bengaluru,Regular,BK027,Whistling Pines,Yuval Noah Harari,Horror,1,615.29,615.29,5200.33,Shipped,Net Banking,110,10
+O0065,2024-10-05,C006,Sanya Nair,Bengaluru,Regular,BK018,The Broken Compass,Malcolm Gladwell,Comics,2,401.42,802.84,5200.33,Shipped,Net Banking,30,10
+O0033,2024-10-08,C026,Ritu Sharma,Mumbai,Regular,BK059,Winter's Edge,Sudha Murty,History,3,930.84,2792.52,2792.52,Delivered,Cash on Delivery,60,25
+O0034,2024-10-20,C032,Harsh Bhatt,Guwahati,Regular,BK015,Chasing Sunsets,Paulo Coelho,Thriller,3,267.13,801.39,4421.89,Delivered,Cash on Delivery,55,15
+O0034,2024-10-20,C032,Harsh Bhatt,Guwahati,Regular,BK041,Shattered Mirrors,Sudha Murty,Fiction,2,229.01,458.02,4421.89,Delivered,Cash on Delivery,113,15
+O0034,2024-10-20,C032,Harsh Bhatt,Guwahati,Regular,BK013,Rivers of Gold,J.D. Rowling,Thriller,3,1054.16,3162.48,4421.89,Delivered,Cash on Delivery,19,15
+O0059,2024-10-21,C004,Manoj Agarwal,Agartala,Regular,BK007,The Forgotten Path,J.D. Rowling,Horror,1,1059.81,1059.81,2988.59,Processing,Debit Card,48,20
+O0059,2024-10-21,C004,Manoj Agarwal,Agartala,Regular,BK037,Beyond the Horizon,Jane Austen,Business,1,158.21,158.21,2988.59,Processing,Debit Card,104,20
+O0059,2024-10-21,C004,Manoj Agarwal,Agartala,Regular,BK033,Wandering Stars,Amanda Cole,Business,3,590.19,1770.57,2988.59,Processing,Debit Card,74,20
+O0011,2024-10-22,C032,Harsh Bhatt,Guwahati,Regular,BK030,The Paper Boat,Sudha Murty,Children,1,312.54,312.54,312.54,Cancelled,Net Banking,37,15
+O0031,2024-11-02,C038,Kabir Agarwal,Agartala,Premium,BK030,The Paper Boat,Sudha Murty,Children,1,312.54,312.54,2595.64,Cancelled,Net Banking,37,15
+O0031,2024-11-02,C038,Kabir Agarwal,Agartala,Premium,BK055,Slow Burn,Stephen King,Science Fiction,2,198.52,397.04,2595.64,Cancelled,Net Banking,60,10
+O0031,2024-11-02,C038,Kabir Agarwal,Agartala,Premium,BK020,The Painted Sky,Stephen King,Comics,2,943.03,1886.06,2595.64,Cancelled,Net Banking,88,15
+O0080,2024-11-25,C013,Vivaan Chatterjee,Hyderabad,Premium,BK062,Silver Linings,Haruki Murakami,Self-Help,2,586.56,1173.12,1430.44,Processing,Net Banking,26,25
+O0080,2024-11-25,C013,Vivaan Chatterjee,Hyderabad,Premium,BK004,The Last Chapter,Stephen King,Thriller,1,257.32,257.32,1430.44,Processing,Net Banking,48,10
+O0047,2024-12-07,C004,Manoj Agarwal,Agartala,Regular,BK005,Echoes of Yesterday,Amanda Cole,Poetry,3,713.04,2139.12,2980.91,Delivered,Credit Card,118,25
+O0047,2024-12-07,C004,Manoj Agarwal,Agartala,Regular,BK054,The Cartographer's Dream,Ruskin Bond,History,1,841.79,841.79,2980.91,Delivered,Credit Card,36,20
+O0050,2025-01-01,C001,Payal Bhatt,Chennai,Regular,BK002,Whispers of Time,Amanda Cole,Fiction,1,379.57,379.57,3462.98,Delivered,Cash on Delivery,64,10
+O0050,2025-01-01,C001,Payal Bhatt,Chennai,Regular,BK012,The Glass Garden,Sudha Murty,Self-Help,1,934.36,934.36,3462.98,Delivered,Cash on Delivery,54,25
+O0050,2025-01-01,C001,Payal Bhatt,Chennai,Regular,BK017,Letters from Home,Malcolm Gladwell,Thriller,3,716.35,2149.05,3462.98,Delivered,Cash on Delivery,99,10
+O0043,2025-01-14,C030,Myra Nair,Guwahati,Premium,BK038,The Last Letter,George R. Martin,Poetry,2,313.22,626.44,5443.95,Cancelled,Cash on Delivery,36,15
+O0043,2025-01-14,C030,Myra Nair,Guwahati,Premium,BK048,The Lantern Keeper,Paulo Coelho,Fiction,3,776.4,2329.2,5443.95,Cancelled,Cash on Delivery,44,20
+O0043,2025-01-14,C030,Myra Nair,Guwahati,Premium,BK047,Fault Lines,Ruskin Bond,Biography,1,497.71,497.71,5443.95,Cancelled,Cash on Delivery,3,10
+O0043,2025-01-14,C030,Myra Nair,Guwahati,Premium,BK010,Winds of Change,Amanda Cole,Fantasy,2,995.3,1990.6,5443.95,Cancelled,Cash on Delivery,51,20
+O0063,2025-01-20,C014,Kabir Agarwal,Delhi,Regular,BK011,A Thousand Mornings,Haruki Murakami,Fantasy,3,565.41,1696.23,5335.62,Shipped,Net Banking,117,25
+O0063,2025-01-20,C014,Kabir Agarwal,Delhi,Regular,BK024,The Golden Hour,James Clear,Business,2,405.15,810.3,5335.62,Shipped,Net Banking,60,25
+O0063,2025-01-20,C014,Kabir Agarwal,Delhi,Regular,BK020,The Painted Sky,Stephen King,Comics,3,943.03,2829.09,5335.62,Shipped,Net Banking,88,15
+O0073,2025-02-09,C006,Sanya Nair,Bengaluru,Regular,BK022,The Long Road Home,Yuval Noah Harari,Business,1,157.55,157.55,381.02,Delivered,Debit Card,90,10
+O0073,2025-02-09,C006,Sanya Nair,Bengaluru,Regular,BK050,The Salt Path,Stephen King,Romance,1,223.47,223.47,381.02,Delivered,Debit Card,85,20
+O0024,2025-02-11,C040,Kavya Bhatt,Ahmedabad,Premium,BK055,Slow Burn,Stephen King,Science Fiction,2,198.52,397.04,5838.96,Cancelled,UPI,60,10
+O0024,2025-02-11,C040,Kavya Bhatt,Ahmedabad,Premium,BK044,The Watchmaker's Secret,Dan Brown,Fiction,2,923.39,1846.78,5838.96,Cancelled,UPI,42,25
+O0024,2025-02-11,C040,Kavya Bhatt,Ahmedabad,Premium,BK035,Ashes and Embers,R.K. Sharma,History,3,1198.38,3595.14,5838.96,Cancelled,UPI,12,10
+O0007,2025-02-16,C020,Arjun Gupta,Chennai,Regular,BK029,Echo Chamber,R.K. Sharma,Biography,2,1122.84,2245.68,7206.71,Delivered,Cash on Delivery,100,25
+O0007,2025-02-16,C020,Arjun Gupta,Chennai,Regular,BK006,Shadows in the Rain,Michelle Obama,Comics,3,756.22,2268.66,7206.71,Delivered,Cash on Delivery,90,10
+O0007,2025-02-16,C020,Arjun Gupta,Chennai,Regular,BK039,Voices in the Dark,Paulo Coelho,Self-Help,2,413.68,827.36,7206.71,Delivered,Cash on Delivery,116,10
+O0007,2025-02-16,C020,Arjun Gupta,Chennai,Regular,BK003,Beyond the Stars,Sudha Murty,Biography,3,621.67,1865.01,7206.71,Delivered,Cash on Delivery,35,10
+O0044,2025-02-21,C040,Kavya Bhatt,Ahmedabad,Premium,BK014,The Midnight Library,Robin Sharma,Business,1,705.57,705.57,3259.62,Delivered,UPI,70,10
+O0044,2025-02-21,C040,Kavya Bhatt,Ahmedabad,Premium,BK029,Echo Chamber,R.K. Sharma,Biography,2,1122.84,2245.68,3259.62,Delivered,UPI,100,25
+O0044,2025-02-21,C040,Kavya Bhatt,Ahmedabad,Premium,BK061,The Clockmaker,Sudha Murty,Non-Fiction,1,308.37,308.37,3259.62,Delivered,UPI,49,15
+O0041,2025-02-22,C020,Arjun Gupta,Chennai,Regular,BK061,The Clockmaker,Sudha Murty,Non-Fiction,1,308.37,308.37,308.37,Delivered,Credit Card,49,15
+O0021,2025-02-24,C015,Shreya Singh,Agartala,Premium,BK046,The Ivory Tower,Yuval Noah Harari,Fantasy,2,843.03,1686.06,7702.5,Delivered,Debit Card,51,20
+O0021,2025-02-24,C015,Shreya Singh,Agartala,Premium,BK059,Winter's Edge,Sudha Murty,History,3,930.84,2792.52,7702.5,Delivered,Debit Card,60,25
+O0021,2025-02-24,C015,Shreya Singh,Agartala,Premium,BK052,The Orchard Wall,Dan Brown,Children,3,861.18,2583.54,7702.5,Delivered,Debit Card,115,15
+O0021,2025-02-24,C015,Shreya Singh,Agartala,Premium,BK025,Fragments of Light,Malcolm Gladwell,Biography,1,640.38,640.38,7702.5,Delivered,Debit Card,93,10
+O0053,2025-03-12,C026,Ritu Sharma,Mumbai,Regular,BK046,The Ivory Tower,Yuval Noah Harari,Fantasy,1,843.03,843.03,6786.27,Cancelled,UPI,51,20
+O0053,2025-03-12,C026,Ritu Sharma,Mumbai,Regular,BK059,Winter's Edge,Sudha Murty,History,2,930.84,1861.68,6786.27,Cancelled,UPI,60,25
+O0053,2025-03-12,C026,Ritu Sharma,Mumbai,Regular,BK029,Echo Chamber,R.K. Sharma,Biography,3,1122.84,3368.52,6786.27,Cancelled,UPI,100,25
+O0053,2025-03-12,C026,Ritu Sharma,Mumbai,Regular,BK005,Echoes of Yesterday,Amanda Cole,Poetry,1,713.04,713.04,6786.27,Cancelled,UPI,118,25
+O0071,2025-03-15,C037,Kunal Joshi,Guwahati,Regular,BK019,Fields of Silence,Sudha Murty,Thriller,2,284.81,569.62,3448.94,Processing,Net Banking,60,15
+O0071,2025-03-15,C037,Kunal Joshi,Guwahati,Regular,BK008,City of Dreams,Stephen King,Children,1,886.91,886.91,3448.94,Processing,Net Banking,87,10
+O0071,2025-03-15,C037,Kunal Joshi,Guwahati,Regular,BK026,The Iron Gate,Haruki Murakami,Thriller,3,411.09,1233.27,3448.94,Processing,Net Banking,24,25
+O0071,2025-03-15,C037,Kunal Joshi,Guwahati,Regular,BK002,Whispers of Time,Amanda Cole,Fiction,2,379.57,759.14,3448.94,Processing,Net Banking,64,10
+O0055,2025-03-16,C039,Nisha Chatterjee,Delhi,Premium,BK028,The Velvet Night,J.D. Rowling,Comics,1,324.63,324.63,2570.31,Delivered,UPI,62,25
+O0055,2025-03-16,C039,Nisha Chatterjee,Delhi,Premium,BK029,Echo Chamber,R.K. Sharma,Biography,2,1122.84,2245.68,2570.31,Delivered,UPI,100,25
+O0028,2025-03-17,C024,Aarav Chauhan,Guwahati,Regular,BK037,Beyond the Horizon,Jane Austen,Business,1,158.21,158.21,4734.92,Delivered,Credit Card,104,20
+O0028,2025-03-17,C024,Aarav Chauhan,Guwahati,Regular,BK044,The Watchmaker's Secret,Dan Brown,Fiction,1,923.39,923.39,4734.92,Delivered,Credit Card,42,25
+O0028,2025-03-17,C024,Aarav Chauhan,Guwahati,Regular,BK051,Deep Blue,Jane Austen,Self-Help,1,850.24,850.24,4734.92,Delivered,Credit Card,41,25
+O0028,2025-03-17,C024,Aarav Chauhan,Guwahati,Regular,BK012,The Glass Garden,Sudha Murty,Self-Help,3,934.36,2803.08,4734.92,Delivered,Credit Card,54,25
+O0070,2025-03-22,C003,Rohan Malhotra,Ahmedabad,Regular,BK056,The Wildflower Field,Robin Sharma,History,2,406.18,812.36,812.36,Delivered,Net Banking,83,10
+O0014,2025-03-24,C019,Payal Joshi,Hyderabad,Regular,BK002,Whispers of Time,Amanda Cole,Fiction,3,379.57,1138.71,1138.71,Cancelled,Net Banking,64,10
+O0001,2025-04-06,C025,Vikram Mehta,Delhi,Regular,BK020,The Painted Sky,Stephen King,Comics,3,943.03,2829.09,4380.01,Shipped,Debit Card,88,15
+O0001,2025-04-06,C025,Vikram Mehta,Delhi,Regular,BK037,Beyond the Horizon,Jane Austen,Business,3,158.21,474.63,4380.01,Shipped,Debit Card,104,20
+O0001,2025-04-06,C025,Vikram Mehta,Delhi,Regular,BK040,The Amber Room,R.K. Sharma,Romance,1,818.97,818.97,4380.01,Shipped,Debit Card,33,15
+O0001,2025-04-06,C025,Vikram Mehta,Delhi,Regular,BK004,The Last Chapter,Stephen King,Thriller,1,257.32,257.32,4380.01,Shipped,Debit Card,48,10
+O0056,2025-04-09,C022,Vikram Iyer,Chennai,Regular,BK021,Beneath the Surface,Malcolm Gladwell,History,2,624.06,1248.12,1248.12,Shipped,Net Banking,31,15
+O0039,2025-04-10,C008,Payal Verma,Delhi,Regular,BK053,Northern Lights,R.K. Sharma,Mystery,1,370.69,370.69,2176.39,Delivered,Debit Card,100,20
+O0039,2025-04-10,C008,Payal Verma,Delhi,Regular,BK041,Shattered Mirrors,Sudha Murty,Fiction,3,229.01,687.03,2176.39,Delivered,Debit Card,113,15
+O0039,2025-04-10,C008,Payal Verma,Delhi,Regular,BK061,The Clockmaker,Sudha Murty,Non-Fiction,1,308.37,308.37,2176.39,Delivered,Debit Card,49,15
+O0039,2025-04-10,C008,Payal Verma,Delhi,Regular,BK024,The Golden Hour,James Clear,Business,2,405.15,810.3,2176.39,Delivered,Debit Card,60,25
+O0042,2025-05-19,C020,Arjun Gupta,Chennai,Regular,BK057,Undertow,Ruskin Bond,History,1,735.28,735.28,3132.04,Delivered,UPI,117,10
+O0042,2025-05-19,C020,Arjun Gupta,Chennai,Regular,BK035,Ashes and Embers,R.K. Sharma,History,2,1198.38,2396.76,3132.04,Delivered,UPI,12,10
+O0076,2025-05-20,C012,Shreya Singh,Mumbai,Premium,BK044,The Watchmaker's Secret,Dan Brown,Fiction,3,923.39,2770.17,6607.42,Shipped,Cash on Delivery,42,25
+O0076,2025-05-20,C012,Shreya Singh,Mumbai,Premium,BK060,Moonlit Roads,Ruskin Bond,History,3,438.33,1314.99,6607.42,Shipped,Cash on Delivery,9,20
+O0076,2025-05-20,C012,Shreya Singh,Mumbai,Premium,BK057,Undertow,Ruskin Bond,History,3,735.28,2205.84,6607.42,Shipped,Cash on Delivery,117,10
+O0076,2025-05-20,C012,Shreya Singh,Mumbai,Premium,BK037,Beyond the Horizon,Jane Austen,Business,2,158.21,316.42,6607.42,Shipped,Cash on Delivery,104,20
+O0069,2025-05-27,C015,Shreya Singh,Agartala,Premium,BK026,The Iron Gate,Haruki Murakami,Thriller,3,411.09,1233.27,1233.27,Processing,Debit Card,24,25
+O0079,2025-06-03,C040,Kavya Bhatt,Ahmedabad,Premium,BK029,Echo Chamber,R.K. Sharma,Biography,3,1122.84,3368.52,3368.52,Shipped,Net Banking,100,25
+O0051,2025-06-22,C027,Arjun Chatterjee,Ahmedabad,Regular,BK029,Echo Chamber,R.K. Sharma,Biography,3,1122.84,3368.52,6172.86,Delivered,UPI,100,25
+O0051,2025-06-22,C027,Arjun Chatterjee,Ahmedabad,Regular,BK050,The Salt Path,Stephen King,Romance,1,223.47,223.47,6172.86,Delivered,UPI,85,20
+O0051,2025-06-22,C027,Arjun Chatterjee,Ahmedabad,Regular,BK024,The Golden Hour,James Clear,Business,2,405.15,810.3,6172.86,Delivered,UPI,60,25
+O0051,2025-06-22,C027,Arjun Chatterjee,Ahmedabad,Regular,BK033,Wandering Stars,Amanda Cole,Business,3,590.19,1770.57,6172.86,Delivered,UPI,74,20
+O0025,2025-07-08,C032,Harsh Bhatt,Guwahati,Regular,BK016,The Quiet War,Paulo Coelho,Self-Help,3,683.07,2049.21,2049.21,Delivered,Cash on Delivery,13,20
+O0045,2025-07-11,C024,Aarav Chauhan,Guwahati,Regular,BK026,The Iron Gate,Haruki Murakami,Thriller,2,411.09,822.18,822.18,Cancelled,Debit Card,24,25
+O0020,2025-07-19,C022,Vikram Iyer,Chennai,Regular,BK060,Moonlit Roads,Ruskin Bond,History,3,438.33,1314.99,5265.91,Processing,Net Banking,9,20
+O0020,2025-07-19,C022,Vikram Iyer,Chennai,Regular,BK021,Beneath the Surface,Malcolm Gladwell,History,1,624.06,624.06,5265.91,Processing,Net Banking,31,15
+O0020,2025-07-19,C022,Vikram Iyer,Chennai,Regular,BK056,The Wildflower Field,Robin Sharma,History,3,406.18,1218.54,5265.91,Processing,Net Banking,83,10
+O0020,2025-07-19,C022,Vikram Iyer,Chennai,Regular,BK013,Rivers of Gold,J.D. Rowling,Thriller,2,1054.16,2108.32,5265.91,Processing,Net Banking,19,15
+O0058,2025-07-23,C009,Vivaan Das,Agartala,Premium,BK043,Riverbend,George R. Martin,Romance,2,1078.34,2156.68,6047.99,Delivered,Cash on Delivery,52,15
+O0058,2025-07-23,C009,Vivaan Das,Agartala,Premium,BK008,City of Dreams,Stephen King,Children,3,886.91,2660.73,6047.99,Delivered,Cash on Delivery,87,10
+O0058,2025-07-23,C009,Vivaan Das,Agartala,Premium,BK027,Whistling Pines,Yuval Noah Harari,Horror,2,615.29,1230.58,6047.99,Delivered,Cash on Delivery,110,10
+O0061,2025-07-24,C036,Anjali Joshi,Bengaluru,Regular,BK002,Whispers of Time,Amanda Cole,Fiction,3,379.57,1138.71,3810.27,Delivered,Cash on Delivery,64,10
+O0061,2025-07-24,C036,Anjali Joshi,Bengaluru,Regular,BK012,The Glass Garden,Sudha Murty,Self-Help,2,934.36,1868.72,3810.27,Delivered,Cash on Delivery,54,25
+O0061,2025-07-24,C036,Anjali Joshi,Bengaluru,Regular,BK018,The Broken Compass,Malcolm Gladwell,Comics,2,401.42,802.84,3810.27,Delivered,Cash on Delivery,30,10
+O0040,2025-07-28,C002,Aman Joshi,Hyderabad,Regular,BK042,The Copper Sky,Sudha Murty,Science Fiction,3,283.82,851.46,2277.54,Delivered,Cash on Delivery,39,20
+O0040,2025-07-28,C002,Aman Joshi,Hyderabad,Regular,BK005,Echoes of Yesterday,Amanda Cole,Poetry,2,713.04,1426.08,2277.54,Delivered,Cash on Delivery,118,25
+O0006,2025-08-05,C039,Nisha Chatterjee,Delhi,Premium,BK030,The Paper Boat,Sudha Murty,Children,3,312.54,937.62,937.62,Delivered,Net Banking,37,15
+O0009,2025-08-13,C018,Anika Kapoor,Pune,Premium,BK034,The Silent Partner,Yuval Noah Harari,Mystery,2,287.42,574.84,6088.86,Delivered,Credit Card,82,20
+O0009,2025-08-13,C018,Anika Kapoor,Pune,Premium,BK042,The Copper Sky,Sudha Murty,Science Fiction,1,283.82,283.82,6088.86,Delivered,Credit Card,39,20
+O0009,2025-08-13,C018,Anika Kapoor,Pune,Premium,BK029,Echo Chamber,R.K. Sharma,Biography,3,1122.84,3368.52,6088.86,Delivered,Credit Card,100,25
+O0009,2025-08-13,C018,Anika Kapoor,Pune,Premium,BK059,Winter's Edge,Sudha Murty,History,2,930.84,1861.68,6088.86,Delivered,Credit Card,60,25
+O0019,2025-08-16,C020,Arjun Gupta,Chennai,Regular,BK029,Echo Chamber,R.K. Sharma,Biography,2,1122.84,2245.68,4642.44,Cancelled,Net Banking,100,25
+O0019,2025-08-16,C020,Arjun Gupta,Chennai,Regular,BK035,Ashes and Embers,R.K. Sharma,History,2,1198.38,2396.76,4642.44,Cancelled,Net Banking,12,10
