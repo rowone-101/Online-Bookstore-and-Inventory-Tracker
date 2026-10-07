@@ -110,5 +110,3 @@ ahead of digital options.
 - Cash on Delivery is the most-used payment method, though digital payments
   together outnumber it.
 
-*Note: This is a practice dataset created for learning purposes and does not
-reflect a real business.*
